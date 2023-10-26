@@ -32,17 +32,17 @@
 
 ### adv_news
 1. consider both text classification and topic modeling
-2. text classification with KoBERT
-   2-1. sentence trasnform
-   2-2. BERTDataset
-   2-3. BERTClassifier
-   2-4. Class and predict label
-3. Topic Modeling with KoBERTopic
-   3-1. Embed Document
-   3-2. UMAP(decomposition)
-   3-3. HDBSCAN(clsutering)
-   3-4. TF-IDF 
-4. making library
+2. text classification with KoBERT  
+   2-1. sentence trasnform  
+   2-2. BERTDataset  
+   2-3. BERTClassifier  
+   2-4. Class and predict label  
+3. Topic Modeling with KoBERTopic  
+   3-1. Embed Document  
+   3-2. UMAP(decomposition)  
+   3-3. HDBSCAN(clsutering)  
+   3-4. TF-IDF   
+4. making library  
 
 ### clean_news
 1. consider both title and content
