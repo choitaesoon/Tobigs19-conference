@@ -33,7 +33,7 @@
 ### adv_news
 1. consider both text classification and topic modeling
 2. text classification with KoBERT  
-   2-1. sentence trasnform  
+   2-1. sentence transform  
    2-2. BERTDataset  
    2-3. BERTClassifier  
    2-4. Class and predict label  
