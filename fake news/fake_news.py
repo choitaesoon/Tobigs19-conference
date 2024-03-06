@@ -1,4 +1,4 @@
-class fn():
+class FakeNews():
 
     def __init__(self, text):
         self.text = re.sub("(<span class='quot[0-9]'>|\n\r\n|</span>|<br/>|<br />|([^0-9가-힣A-Za-z. ]))","",text)
